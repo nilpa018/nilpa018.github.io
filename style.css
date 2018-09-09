@@ -1,0 +1,81 @@
+#Fellows p {
+  display: inline;
+  font-weight: bold;
+}
+#Fellows ul {
+  text-align: center;
+}
+#Fellows li {
+  display: inline;
+}
+a.badge.badge-secondary {
+  height: 30px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+a.badge.badge-light {
+  height: 30px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.titlefellows {
+  margin-left: 50px;
+  font-family: arial, verdana, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+p {
+	font-family: arial, verdana, sans-serif;
+}
+.Table {
+	float: left;
+}
+.card {
+	float: left;
+}
+.card img {
+  width: 220px;
+  height: 250px;
+  margin: 0 auto;
+}
+div.card-deck {
+  width: 780px;
+  margin: 0 auto;
+}
+.reward {
+	font-size: 22px;
+	position: absolute;
+  z-index: 5;
+  background-color: white;
+  opacity: 0.7;
+  padding: 5px 30px;
+  margin: 10px 18px;
+  border-radius: 5px;
+}
+.affichage {
+	vertical-align: middle;
+	position: relative;
+	z-index: 8;
+}
+.card-img-top {
+	opacity: 0.5;
+	position: relative;
+	z-index: 2;
+}
+.card-img-top:hover {
+	position: relative;
+  opacity: 1;
+  z-index: 7;
+}
+.name {
+	position: relative;
+	z-index: 6;
+	margin-top: -125px;
+	font-size: 36px;
+	color: white;
+  text-align: center;
+}
+.description {
+	padding-top: 50px;
+}
