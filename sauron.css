@@ -1,24 +1,24 @@
 @font-face {
     font-family:'ani';
-    src: url('polices/anicb___.ttf') format('truetype');
-    src: url('polices/anicm___.ttf') format('truetype');
-    src: url('polices/anirb___.ttf') format('truetype');
-    src: url('polices/anirm___.ttf') format('truetype');
+    src: url('anicb___.ttf') format('truetype');
+    src: url('anicm___.ttf') format('truetype');
+    src: url('anirb___.ttf') format('truetype');
+    src: url('anirm___.ttf') format('truetype');
 
  
   }
 
 @font-face {
     font-family:'PartyBusiness';
-    src : url('polices/partybusiness.ttf') format('truetype');
+    src : url('partybusiness.ttf') format('truetype');
 }
 
 @font-face {
     font-family:'tngani';
-    src : url('polices/tngani.ttf') format('truetype');
+    src : url('tngani.ttf') format('truetype');
 }
 body{
-    background: url(images/bg_light.png);
+    background: url(bg_light.png);
 }
 .nav-pills{
     display : flex;
@@ -244,7 +244,7 @@ body{
    }
 
    .card{
-       background: url('images/bg_dark.png');
+       background: url('bg_dark.png');
        
    }
    
@@ -350,7 +350,7 @@ p{
 }
 
 .captured{
-    background: url('images/bg_dark.png');
+    background: url('bg_dark.png');
 }
 
 .ring{
